@@ -7,3 +7,5 @@ Replace #333 with #
 
 
 Home, About, Courses, News, Contact
+
+Add everydaykenneth.css file to fix newsletter subscription bug
